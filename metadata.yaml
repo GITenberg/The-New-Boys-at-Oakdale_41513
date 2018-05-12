@@ -1,0 +1,32 @@
+_repo: The-New-Boys-at-Oakdale_41513
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Scott, A. O. (Arthur O.)
+    alias: Scott, Arthur O.
+    gutenberg_agent_id: '25205'
+    url: http://www.gutenberg.org/2009/agents/25205
+covers:
+- cover_type: archival
+  image_path: 41513-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Scott, Morgan
+    gutenberg_agent_id: '25606'
+    url: http://www.gutenberg.org/2009/agents/25606
+description: ''
+gutenberg_issued: '2012-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Baseball stories'
+- !lcc 'PZ'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Baseball -- Juvenile fiction'
+title: The New Boys at Oakdale
+url: http://www.gutenberg.org/ebooks/41513
